@@ -7,3 +7,9 @@
   - Visual Studio Code;
   - Linguagem Python;
   - Sistema operacional - Linux (Ubuntu)
+
+
+* Segue os print's da tela como evidências da execução dos comandos;
+* Ransoware na pasta (Ransoware) e do Keylogger na pasta (Keylogger)
+
+#### Segue os script's em python
