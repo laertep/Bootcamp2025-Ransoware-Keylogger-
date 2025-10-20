@@ -13,3 +13,6 @@
 * Ransoware na pasta (Ransoware) e do Keylogger na pasta (Keylogger)
 
 #### Segue os script's em python
+* keylogger_email.py
+* ransoware.py
+* descritografar.py
